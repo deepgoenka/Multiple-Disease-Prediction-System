@@ -76,4 +76,4 @@ These results demonstrate the effectiveness of the trained models in accurately 
 Contributions are welcome! Please feel free to submit bug reports, feature requests, or pull requests to help improve this project.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/deepgoenka/Multiple-Disease-Prediction-System/blob/main/LICENSE) file for details.
