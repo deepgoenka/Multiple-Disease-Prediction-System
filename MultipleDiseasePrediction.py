@@ -7,10 +7,10 @@ warnings.filterwarnings("ignore")
 
 
 # Loading the trained models
-diabetes_model = pickle.load(open("C:/Users/User/Downloads/Diabetes_Prediction_Model.sav", 'rb'))
-heart_disease_model = pickle.load(open("C:/Users/User/Downloads/Heart_Disease_Model.sav", 'rb'))
-breast_cancer_model = pickle.load(open("C:/Users/User/Downloads/Breast_Cancer_Model.sav", 'rb'))
-parkinsons_disease_model = pickle.load(open("C:/Users/User/Downloads/Parkinson's_Disease_Model.sav", 'rb'))
+diabetes_model = pickle.load(open('Diabetes_Prediction_Model.sav', 'rb'))
+heart_disease_model = pickle.load(open('Heart_Disease_Model.sav', 'rb'))
+breast_cancer_model = pickle.load(open('Breast_Cancer_Model.sav', 'rb'))
+parkinsons_disease_model = pickle.load(open('Parkinsons_Disease_Model.sav', 'rb'))
 
 
 # Diabetes prediction function
